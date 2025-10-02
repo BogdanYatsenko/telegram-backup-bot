@@ -19,3 +19,9 @@ Back up messages and media from Telegram chats to a local folder and a SQLite da
    python -m venv .venv
    source .venv/bin/activate  # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
+
+
+
+### 📦 About the migration
+This repository was migrated as part of my Portfolio Refresh.
+Originally developed locally; during migration I added README, .env.example, Docker/CI, and minor improvements.
